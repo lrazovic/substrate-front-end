@@ -49,7 +49,7 @@ export default function Main(props) {
                 <strong>Address</strong>
               </Table.Cell>
               <Table.Cell width={3}>
-                <strong>Balance</strong>
+                <strong>Balance in LDOT</strong>
               </Table.Cell>
             </Table.Row>
             {accounts.map(account => (
